@@ -4,13 +4,13 @@ Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw
 
 ## Table of Contents
 1. [About](#About)
-2. [Portfolio Projects](PortfolioProjects/data-analyst-portfolio)
-- [SQL Projects](SQLprojects/data-analyst-portfolio)
-- [Power BI Projects](PowerBIprojects/data-analyst-portfolio)
-- [Tableau Projects](Tableauprojects/data-analyst-portfolio)
-- [Excel / Google Sheets](Excel/GoogleSheetsprojects/data-analyst-portfolio)
-3. [Certificates](Certificates/data-analyst-portfolio)
-4. [Contact](Contact/data-analyst-portfolio)
+2. [Portfolio Projects](#PortfolioProjects)
+- [SQL Projects](#SQLprojects)
+- [Power BI Projects](#PowerBIprojects)
+- [Tableau Projects](#Tableauprojects)
+- [Excel / Google Sheets](#Excel/GoogleSheetsprojects)
+3. [Certificates](#Certificates)
+4. [Contact](#Contact)
 
 ## About
 
@@ -62,7 +62,7 @@ In this section, I will list data analytics projects briefly describing the tech
 - Data Analytics and Databases on AWS (Coursera - AWS)
 
 ## Contact
-- Email: [Quyenntt98@gmail.com](Quyenntt98@gmail.com)
+- Email: [Quyenntt98@gmail.com](mailto:Quyenntt98@gmail.com)
 - Linkedin: [Jean Nguyen](https://www.linkedin.com/in/thu-quyen-nguyen/)
 
 
