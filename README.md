@@ -4,14 +4,13 @@ Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw
 
 ## Table of Contents
 1. [About](About/data-analyst-portfolio)
-2. Portfolio Projects
-- Python Projects
-- SQL Projects
-- Power BI Reports
-- Tableau Projects
-- Excel / Google Sheets
-3. Certificates
-4. Contact
+2. [Portfolio Projects](PortfolioProjects/data-analyst-portfolio)
+- [SQL Projects](SQLprojects/data-analyst-portfolio)
+- [Power BI Projects](PowerBIprojects/data-analyst-portfolio)
+- [Tableau Projects](Tableauprojects/data-analyst-portfolio)
+- [Excel / Google Sheets](Excel/GoogleSheetsprojects/data-analyst-portfolio)
+3. [Certificates](Certificates/data-analyst-portfolio)
+4. [Contact](Contact/data-analyst-portfolio)
 
 ## About
 
@@ -30,10 +29,38 @@ In this section, I will list data analytics projects briefly describing the tech
 - **Goal**: Conduct analysis on transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 - **Description**: A supermarket chain wants to perform exploratory data analysis (EDA) on their dataset to feed into the supermarket’s strategic plan for the chip category in the next half year better focusing on customer segments and their chip purchasing behaviour.
 - **Skills**: Data analysis, Exploratory data analysis (EDA), Data visualization, Report Building
-- **Technology**: Python, Pandas, Plotly, NumPy, Matplotlib.
-- **Results**: Using Python and various data analysis libraries, the project successfully analyzed the transaction and customer dataset. Key findings included the main customer segment to focus on, their favourite pack size and peak season during a year.
+- **Technology**: Python, Pandas, Plotly, NumPy.
 
 ### SQL projects
 **Warehouse tracking**
+- **Goal**: Track and classify each warehouse by the percentage of grand total orders that it fulfilled
+- **Description**: The dataset contains a list of warehouse chains and their orders recorded by time. This project includes the following steps: data loading, data cleaning and preprocessing.
+- **Skills**: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language)
+- **Technology**: SQL, BigQuery
+
+### Power BI Projects
+**Customer Analytics Project**
+
+
+### Tableau Projects
+**Online Retail Visualization**
+- **Description**: An online retail store wants to analyse the major contributing factors to the revenue ro evaluate the current business performance and suggest metrics for decisions on expansion
+- **Goal**: To analyse the trends and the breakdown revenue by different categories and define the main factors affecting the online store
+- **Skills**: Data cleaning, Data visualization, Trend analysis.
+- **Technology**: Tableau
+
+### Excel / Google Sheets
+**Social Media Analysis**
+- **Goal**: Build a data model and analyze the content categories
+- **Description**: A social media flatform wants to view analysis of their content categories that highlights the top categories with the largest aggregate popularity
+- **Skills**: Data preparing, Data cleaning, Data modelling, Data vizualization
+- **Technology**: Google  Sheets
+
+## Certificates
+- Google
+
+## Contact
+Email: [Quyenntt98@gmail.com](Quyenntt98@gmail.com)
+Linkedin: [Jean Nguyen]{https://www.linkedin.com/in/thu-quyen-nguyen/}
 
 
