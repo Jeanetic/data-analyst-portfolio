@@ -5,10 +5,10 @@ Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw
 ## Table of Contents
 1. [About](#About)
 2. [Portfolio Projects](#Portfolio-Projects)
-- [SQL Projects](#SQLprojects)
-- [Power BI Projects](#PowerBIprojects)
-- [Tableau Projects](#Tableauprojects)
-- [Excel / Google Sheets](#Excel/GoogleSheetsprojects)
+- [SQL Projects](#SQL-projects)
+- [Power BI Projects](#Power-BI-projects)
+- [Tableau Projects](#Tableau-projects)
+- [Excel / Google Sheets](#Excel/GoogleSheets-projects)
 3. [Certificates](#Certificates)
 4. [Contact](#Contact)
 
