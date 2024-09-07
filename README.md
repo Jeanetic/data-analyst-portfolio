@@ -8,7 +8,7 @@ Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw
 - [SQL Projects](#SQL-projects)
 - [Power BI Projects](#Power-BI-projects)
 - [Tableau Projects](#Tableau-projects)
-- [Excel / Google Sheets](#Excel-Google-Sheets-projects)
+- [Excel / Google Sheets](#Excel-/-Google-Sheets-projects)
 3. [Certificates](#Certificates)
 4. [Contact](#Contact)
 
@@ -24,14 +24,14 @@ Here are my [Resume](https://github.com/Jeanetic/data-analyst-portfolio/blob/mai
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Python projects
+### Python Projects
 **Potato Chip Exploratory Analysis**
 - **Goal**: Conduct analysis on transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 - **Description**: A supermarket chain wants to perform exploratory data analysis (EDA) on their dataset to feed into the supermarket’s strategic plan for the chip category in the next half year better focusing on customer segments and their chip purchasing behaviour.
 - **Skills**: Data analysis, Exploratory data analysis (EDA), Data visualization, Report Building
 - **Technology**: Python, Pandas, Plotly, NumPy.
 
-### SQL projects
+### SQL Projects
 **Warehouse tracking**
 - **Goal**: Track and classify each warehouse by the percentage of grand total orders that it fulfilled
 - **Description**: The dataset contains a list of warehouse chains and their orders recorded by time. This project includes the following steps: data loading, data cleaning and preprocessing.
@@ -49,7 +49,7 @@ In this section, I will list data analytics projects briefly describing the tech
 - **Skills**: Data cleaning, Data visualization, Trend analysis.
 - **Technology**: Tableau
 
-### Excel / Google Sheets
+### Excel / Google Sheets Projects
 **Social Media Analysis**
 - **Goal**: Build a data model and analyze the content categories
 - **Description**: A social media flatform wants to view analysis of their content categories that highlights the top categories with the largest aggregate popularity
