@@ -8,7 +8,7 @@ Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw
 - [SQL Projects](#SQL-projects)
 - [Power BI Projects](#Power-BI-projects)
 - [Tableau Projects](#Tableau-projects)
-- [Excel / Google Sheets Projects](#Excel-Google-Sheets-projects)
+- [Excel / Google Sheets Projects](#Excel--Google-Sheets-projects)
 3. [Certificates](#Certificates)
 4. [Contact](#Contact)
 
