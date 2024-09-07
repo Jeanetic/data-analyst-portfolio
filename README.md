@@ -3,7 +3,7 @@
 Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw data into meaningful insights. Take a look at a short summary of my data journey and brief descriptions of the projects in each folder. Let’s get started!
 
 ## Table of Contents
-1. [About](About/data-analyst-portfolio)
+1. [About](#About)
 2. [Portfolio Projects](PortfolioProjects/data-analyst-portfolio)
 - [SQL Projects](SQLprojects/data-analyst-portfolio)
 - [Power BI Projects](PowerBIprojects/data-analyst-portfolio)
@@ -57,10 +57,12 @@ In this section, I will list data analytics projects briefly describing the tech
 - **Technology**: Google  Sheets
 
 ## Certificates
-- Google
+- Google Data Analytics Professional Certificate (Coursera - Google)
+- Python for Data Science, AI & Development (Coursera - IBM)
+- Data Analytics and Databases on AWS (Coursera - AWS)
 
 ## Contact
-Email: [Quyenntt98@gmail.com](Quyenntt98@gmail.com)
-Linkedin: [Jean Nguyen]{https://www.linkedin.com/in/thu-quyen-nguyen/}
+- Email: [Quyenntt98@gmail.com](Quyenntt98@gmail.com)
+- Linkedin: [Jean Nguyen](https://www.linkedin.com/in/thu-quyen-nguyen/)
 
 
