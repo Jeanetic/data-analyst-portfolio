@@ -4,7 +4,7 @@ Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw
 
 ## Table of Contents
 1. [About](#About)
-2. [Portfolio Projects](#Portfolio_Projects)
+2. [Portfolio Projects](#Portfolio=Projects)
 - [SQL Projects](#SQLprojects)
 - [Power BI Projects](#PowerBIprojects)
 - [Tableau Projects](#Tableauprojects)
