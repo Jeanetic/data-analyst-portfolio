@@ -39,13 +39,17 @@ In this section, I will list data analytics projects briefly describing the tech
 - **Technology**: SQL, BigQuery
 
 ### Power BI Projects
-**Customer Analytics Project**
+**Customer Retention Analytics Project**
+- **Goal**: Establish key performance indicators (KPIs) related to customer retention then create a dashboard that visualizes customer demographics and insights.
+- **Description**: A telecom business seeks to gain deeper insights into customers at risk of termination and behavioral data to enhance customer retention through advanced analysis and visualization of their dataset.
+- **Skills**: Data examining, Data modeling, Data visualization, Data mining, Report preparing
+- **Technology**: Microsoft Power BI
 
 
 ### Tableau Projects
 **Online Retail Visualization**
-- **Description**: An online retail store wants to analyse the major contributing factors to the revenue ro evaluate the current business performance and suggest metrics for decisions on expansion
 - **Goal**: To analyse the trends and the breakdown revenue by different categories and define the main factors affecting the online store
+- **Description**: An online retail store wants to analyse the major contributing factors to the revenue ro evaluate the current business performance and suggest metrics for decisions on expansion
 - **Skills**: Data cleaning, Data visualization, Trend analysis.
 - **Technology**: Tableau
 
