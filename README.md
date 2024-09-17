@@ -1,4 +1,4 @@
-# Jean Nguyen - Data Analyst Portfolio
+# Quyen Nguyen - Data Analyst Portfolio
 
 Thank you for visiting my data analyst portfolio! I’m dedicated to turning raw data into meaningful insights. Take a look at a short summary of my data journey and brief descriptions of the projects in each folder. Let’s get started!
 
