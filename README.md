@@ -25,21 +25,21 @@ Here are my [Resume](https://github.com/Jeanetic/data-analyst-portfolio/blob/mai
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Python Projects
-**Potato Chip Exploratory Analysis**
+[**Potato Chip Exploratory Analysis**](https://github.com/Jeanetic/data-analyst-portfolio/tree/main/Python%20projects/Potato%20Chips%20Insights)
 - **Goal**: Conduct analysis on transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 - **Description**: A supermarket chain wants to perform exploratory data analysis (EDA) on their dataset to feed into the supermarket’s strategic plan for the chip category in the next half year better focusing on customer segments and their chip purchasing behaviour.
 - **Skills**: Data analysis, Exploratory data analysis (EDA), Data visualization, Report Building
 - **Technology**: Python, Pandas, Plotly, NumPy.
 
 ### SQL Projects
-**Warehouse tracking**
+[**Warehouse tracking**](https://github.com/Jeanetic/data-analyst-portfolio/tree/main/SQL%20projects/Warehouse%20tracking)
 - **Goal**: Track and classify each warehouse by the percentage of grand total orders that it fulfilled
 - **Description**: The dataset contains a list of warehouse chains and their orders recorded by time. This project includes the following steps: data loading, data cleaning and preprocessing.
 - **Skills**: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language)
 - **Technology**: SQL, BigQuery
 
 ### Power BI Projects
-**Customer Retention Analytics Project**
+[**Customer Retention Analytics Project**](https://github.com/Jeanetic/data-analyst-portfolio/tree/main/Power%20BI%20projects/Customer%20Retention%20Analysis)
 - **Goal**: Establish key performance indicators (KPIs) related to customer retention then create a dashboard that visualizes customer demographics and insights.
 - **Description**: A telecom business seeks to gain deeper insights into customers at risk of termination and behavioral data to enhance customer retention through advanced analysis and visualization of their dataset.
 - **Skills**: Data examining, Data modeling, Data visualization, Data mining, Report preparing
@@ -47,14 +47,14 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ### Tableau Projects
-**Online Retail Visualization**
+[**Online Retail Visualization**](https://github.com/Jeanetic/data-analyst-portfolio/tree/main/Tableau%20projects/Online%20Retails%20Visualization)
 - **Goal**: To analyse the trends and the breakdown revenue by different categories and define the main factors affecting the online store
 - **Description**: An online retail store wants to analyse the major contributing factors to the revenue ro evaluate the current business performance and suggest metrics for decisions on expansion
 - **Skills**: Data cleaning, Data visualization, Trend analysis.
 - **Technology**: Tableau
 
 ### Excel / Google Sheets Projects
-**Social Media Analysis**
+[**Social Media Analysis**](https://github.com/Jeanetic/data-analyst-portfolio/tree/main/Google%20sheets%26Excel/Buzz%20Social)
 - **Goal**: Build a data model and analyze the content categories
 - **Description**: A social media flatform wants to view analysis of their content categories that highlights the top categories with the largest aggregate popularity
 - **Skills**: Data preparing, Data cleaning, Data modelling, Data vizualization
@@ -64,6 +64,7 @@ In this section, I will list data analytics projects briefly describing the tech
 - Google Data Analytics Professional Certificate (Coursera - Google)
 - Python for Data Science, AI & Development (Coursera - IBM)
 - Data Analytics and Databases on AWS (Coursera - AWS)
+- Data Analysis and Visualization with Power BI (Coursera - Microsoft)
 
 ## Contact
 - Email: [Quyenntt98@gmail.com](mailto:Quyenntt98@gmail.com)
