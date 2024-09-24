@@ -19,7 +19,7 @@ Driven by this curiosity, I decided to dive deep into the world of data analysis
 In my free time, I delve into articles on Medium to expand my knowledge or engage in personal data projects to improve other data techniques. I am passionate about discovering new insights and solving complex problems with data.
 Now, I'm eager to take my skills to the next level. I'm seeking opportunities to continue learning, growing, and pushing the boundaries of data analysis. My goal is to contribute valuable insights that drive business success and make a real impact.
 
-Here are my [Resume](https://github.com/Jeanetic/data-analyst-portfolio/blob/main/Quyen%20Nguyen%20-%20Data%20Analyst%20Resume.docx.pdf) and [Portfolio](https://jean-nguyen-portfolio.unicornplatform.page/)
+Here are my [Resume](https://github.com/Jeanetic/data-analyst-portfolio/blob/main/Quyen%20Nguyen%20-%20Data%20Analyst%20Resume.pdf) and [Portfolio](https://jean-nguyen-portfolio.unicornplatform.page/)
 
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
